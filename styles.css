@@ -125,3 +125,39 @@ footer {
     font-weight: bold;
     border-radius: 10px;
 }
+
+/* Fondo general turquesa */
+body {
+    background-color: #40E0D0; /* Turquesa */
+    color: #333; /* Texto oscuro para un buen contraste */
+    font-family: 'Arial', sans-serif;
+}
+
+/* Estilo del título principal */
+header {
+    background-color: #40E0D0; /* Fondo turquesa */
+    text-align: center;
+    padding: 20px;
+    border-bottom: 5px solid #d4af37; /* Línea dorada elegante */
+}
+
+header h1 {
+    color: #d4af37; /* Título en dorado */
+    font-size: 36px;
+    font-weight: bold;
+}
+
+/* Frase introductoria */
+header p {
+    color: #fff; /* Texto blanco para contraste */
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Estrella decorativa */
+.star-icon {
+    font-size: 40px;
+    color: #d4af37; /* Dorado */
+    display: inline-block;
+    margin-right: 10px;
+}
