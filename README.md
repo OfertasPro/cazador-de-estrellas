@@ -1,2 +1,2 @@
-,,Repositorio para Mundo de Ofertas,,
+,,Repositorio para Cazador de Estrellas,,
  
