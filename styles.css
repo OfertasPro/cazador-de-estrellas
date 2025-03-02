@@ -114,7 +114,7 @@ footer {
     text-align: center;
     padding: 10px;
 ; border-radius: 10px; } 
-cartel {
+.cartel {
     background-color: orange; /* Naranja vibrante */
     color: #fff; /* Texto blanco */
     border: 3px solid #d4af37; /* Borde dorado */
