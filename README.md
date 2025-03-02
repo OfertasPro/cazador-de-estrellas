@@ -1,2 +1,2 @@
-,,Repositorio para Cazador de Estrellas,,
+,,Repositorio para La Estrella Mágica,,
  
