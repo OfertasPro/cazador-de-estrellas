@@ -76,3 +76,41 @@
        padding: 10px;
        margin-top: 20px;
    }
+/* Estilo para los botones */
+.affiliate-link {
+    background-color: #28a745; /* Verde */
+    color: #fff; /* Texto blanco */
+    border: 2px solid #d4af37; /* Borde dorado */
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.affiliate-link:hover {
+    background-color: #d4af37; /* Fondo dorado al pasar el mouse */
+    color: #fff; /* Texto blanco */
+}
+
+/* Encabezado */
+header {
+    background-color: #28a745; /* Fondo verde */
+    color: #fff; /* Texto blanco */
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header h1 {
+    color: #d4af37; /* Título en dorado */
+}
+
+/* Pie de página */
+footer {
+    background-color: #333; /* Fondo oscuro */
+    color: #d4af37; /* Texto dorado */
+    text-align: center;
+    padding: 10px;
+}
