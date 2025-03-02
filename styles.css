@@ -114,3 +114,4 @@ footer {
     text-align: center;
     padding: 10px;
 }
+artel { background-color: orange; /* Naranja vibrante */ color: #fff; /* Texto blanco */ border: 3px solid #d4af37; /* Borde dorado */ box-shadow: 0px 4px 10px rgba(212, 175, 55, 0.5); /* Sombra dorada */ padding: 20px; text-align: center; font-size: 20px; font-weight: bold; border-radius: 10px; } 
