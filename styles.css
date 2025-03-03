@@ -161,3 +161,37 @@ header p {
     display: inline-block;
     margin-right: 10px;
 }
+```css
+.producto {
+    border: 1px solid #d4af37; /* Borde dorado */
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #f9f9f9; /* Fondo claro */
+}
+
+.producto h3 {
+    color: #d4af37; /* Título del producto en dorado */
+}
+
+.comentarios {
+    margin-top: 15px;
+    background-color: rgba(0, 0, 0, 0.05); /* Fondo sutilmente gris */
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.comentario {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #d4af37; /* Borde dorado */
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.1); /* Fondo semi-transparente */
+}
+
+.comentario span {
+    display: block;
+    margin-top: 5px;
+    font-style: italic;
+    color: #555; /* Texto gris para el autor */
+}
