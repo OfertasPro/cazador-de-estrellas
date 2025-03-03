@@ -195,3 +195,57 @@ header p {
     font-style: italic;
     color: #555; /* Texto gris para el autor */
 }
+ section {
+       margin: 10px auto; /* Reduce espacio superior e inferior */
+       padding: 15px; /* Espacio interior reducido */
+       max-width: 1200px; /* Limita el ancho para hacerla más compacta */
+   }
+producto {
+       max-width: 280px; /* Reduce el tamaño del bloque */
+       margin: 15px auto; /* Centra los productos */
+       padding: 10px;
+       border: 1px solid #d4af37; /* Borde dorado */
+       border-radius: 10px;
+       background-color: #f9f9f9; /* Fondo suave */
+   }
+producto img {
+       width: 100%; /* Haz que las imágenes ocupen todo el ancho disponible */
+       height: auto;
+       margin-bottom: 10px;
+   }
+producto h3, .producto p, .producto button {
+       text-align: center;
+   }
+
+   .producto button {
+       margin-top: 10px;
+       padding: 10px 20px;
+       font-size: 14px;
+       border-radius: 5px;
+       background-color: #d4af37; /* Botón dorado */
+       color: #fff;
+       border: none;
+       cursor: pointer;
+   }
+producto button:hover {
+       background-color: #f1c40f; /* Color más claro al pasar el ratón */
+   }
+
+comentarios {
+       padding: 10px;
+       background-color: rgba(0, 0, 0, 0.05); /* Fondo suave */
+       border-radius: 10px;
+       margin-top: 10px;
+   }
+
+   .comentarios .comentario {
+       margin-bottom: 10px;
+       padding: 10px;
+       background-color: rgba(0, 0, 0, 0.1); /* Fondo ligeramente más oscuro */
+       border-radius: 5px;
+   }
+body {
+       max-width: 1200px; /* Ancho total de la página */
+       margin: 0 auto; /* Centra todo el contenido */
+       padding: 20px;
+   }
